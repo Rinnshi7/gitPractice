@@ -1,5 +1,5 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "gitPractice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
